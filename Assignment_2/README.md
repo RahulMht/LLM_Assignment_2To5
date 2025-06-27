@@ -1,4 +1,4 @@
-# AI in Healthcare – Assignment 2.2
+# Assignment 2
 
 Rahul Ravi Mahatha
 
@@ -8,7 +8,7 @@ Rahul Ravi Mahatha
 A compact repository demonstrating the impact of Artificial Intelligence in healthcare through two core artifacts:
 
 1. **presentation_slides.pdf** – 12-slide, 16:9 ratio deck summarising market growth, use-cases and challenges.
-2. **train-transformer-news-classification.ipynb** – Jupyter Notebook that trains a transformer model for healthcare-related news-topic classification and underpins several statistics cited in the slides.
+2. **train-transformer-news-classification.ipynb** – Jupyter Notebook that trains a transformer model for news-topic classification and underpins several statistics cited in the slides.
 
 ## 🗂 Repository Contents
 | Path | Description |

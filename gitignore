@@ -1,0 +1,78 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.spec
+
+# Environment and IDEs
+.env
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+*.swp
+
+# OS-related
+.DS_Store
+Thumbs.db
+
+# Gradio and Lightning Studio
+.gradio/
+.lightning_studio/
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+*.bak
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+.cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# Static analysis
+.pyre/
+.pytype/
+
+# TensorBoard logs
+runs/
+
+# Model files
+*.ckpt
+*.pt
+*.pth
+*.h5
+*.tflite
+*.onnx
+
+# Dataset caches
+datasets/
+__data__/
+*.zip
+*.tar
+*.tar.gz
+
+# Node.js (if using JS for frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
